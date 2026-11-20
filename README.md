@@ -8,9 +8,9 @@ A manager types one sentence about tonight, for example "quiet tonight, 4 tables
 
 ## Opening the prototype
 
-Live version: https://jmceniff.github.io/genai-practice/
+[Open the working HappyTable V2 prototype](https://htmlpreview.github.io/?https://github.com/jmceniff/genai-practice/blob/96652b52ee5398d284991ed857c13d724e4899a6/index.html)
 
-Replit version: [REPLIT LINK]
+The sections below document the original V1 working slice.
 
 To run it locally, open `index.html` in any browser. There is nothing to install and no configuration.
 
